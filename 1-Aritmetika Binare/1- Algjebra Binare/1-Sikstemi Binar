@@ -12,3 +12,43 @@ Funksion(veprim): Eshte nje cift i renditur me 3 elemente(x,y,z) ku x eshte bash
 Funksioni eshte nje lidhje mes dy bashkesish a dhe b
 
 Cift i renditur(B,T) ku B eshte thjeshte nje bashkesi dhe T eshte nje veprim i definuar mbi kete bashkesi, quhet algjeber.
+
+
+
+
+
+Sistemi binar eshte sistem numerimi i bashkesise N 
+Algjebra e numrave binare ka veprimet +,-,x,/.
+// 12+12
+ 1100
++1100
+-------
+11000   -> 1x2^4+1x2^3+0x2^2+0x2^1+0x2^0= 16+8=24
+
+//7-1
+
+ 111
+-001
+-----
+ 110   -> 1x2^2+ 1x2^1+ 0x2^0= 4+2= 6
+
+//2x2
+
+ 10
+x10
+-----
+    00
+ + 100
+---------
+   100   
+
+
+
+Sistemi binar eshte sistemi ku bashkesia e numrave si reale, si natyrore, si te plote,
+thjesht numerohen(menyre numerimi)me baze 2, dhe cdo veprim eshte i njejte me veprimet ne aritmetiken baze.
+
+
+
+
+
+ 
