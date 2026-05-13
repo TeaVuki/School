@@ -1,0 +1,14 @@
+Dy konceptet baze te matematikes jane: 
+bashkesia
+ciftet e renditura
+
+
+Bahkesia e numrave N={1,10,11,100,101,110,111,1000,1001,1010...}
+bashkesia e numrave Z={-1010,-1001,-1000,-111,-110,-101,-100,-11,-10,-1,0,1,10,11,100,101,110,111,1000,1001,1010}
+bashkesia e numrave R={1,1.1,-1,-1.1}
+
+Funksion(veprim): Eshte nje cift i renditur me 3 elemente(x,y,z) ku x eshte bashkesia e fillimit, y bashkesia e mbarimit ose rezultatit dhe z nenbashkesia e prodhimit te xy.
+
+Funksioni eshte nje lidhje mes dy bashkesish a dhe b
+
+Cift i renditur(B,T) ku B eshte thjeshte nje bashkesi dhe T eshte nje veprim i definuar mbi kete bashkesi, quhet algjeber.
